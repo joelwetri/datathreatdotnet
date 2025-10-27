@@ -7,6 +7,6 @@ bucket = "./"
 entry-point = "workers-site"
 
 [env.production]
-zone_id = "f8e942c51dcc8e72a21f8f685567447f"
-account_id = "70a2944af06c355cbb6c3dfb1a098d57"
-route = "datathreat.net/*"
+zone_id = "xxxxxxxx"
+account_id = "xxxxxxxxxxx"
+route = "xxxxxxx.net/*"
